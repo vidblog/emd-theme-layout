@@ -1,2 +1,2 @@
-# EDM Theme PSD's for Octopress
+# EMD Theme PSD's for Octopress
 Design inspired by [Medium](http://medium.com)
